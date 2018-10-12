@@ -1,0 +1,26 @@
+{
+  "name": "gulptaskprogect",
+  "version": "1.0.0",
+  "description": "my first gulp progect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mosondz/GulpTaskProgect.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "taras mosondz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mosondz/GulpTaskProgect/issues"
+  },
+  "homepage": "https://github.com/Mosondz/GulpTaskProgect#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
